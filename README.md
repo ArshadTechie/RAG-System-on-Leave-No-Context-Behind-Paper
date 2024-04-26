@@ -34,4 +34,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For more detailed instructions and documentation, refer to the [documentation](docs/README.md).
